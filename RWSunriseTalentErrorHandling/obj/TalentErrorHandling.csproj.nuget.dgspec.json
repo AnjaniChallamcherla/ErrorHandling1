@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ANJANIC\\Desktop\\newtest\\i106-talent-error-handling\\RWSunriseTalentErrorHandling-DEV\\TalentErrorHandling.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ANJANIC\\Desktop\\newtest\\i106-talent-error-handling\\RWSunriseTalentErrorHandling-DEV\\TalentErrorHandling.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ANJANIC\\Desktop\\newtest\\i106-talent-error-handling\\RWSunriseTalentErrorHandling-DEV\\TalentErrorHandling.csproj",
+        "projectName": "TalentErrorHandling",
+        "projectPath": "C:\\Users\\ANJANIC\\Desktop\\newtest\\i106-talent-error-handling\\RWSunriseTalentErrorHandling-DEV\\TalentErrorHandling.csproj",
+        "packagesPath": "C:\\Users\\ANJANIC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ANJANIC\\Desktop\\newtest\\i106-talent-error-handling\\RWSunriseTalentErrorHandling-DEV\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ANJANIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Microsoft.Azure.KeyVault": {
+              "target": "Package",
+              "version": "[3.0.3, )"
+            },
+            "Microsoft.IdentityModel.Clients.ActiveDirectory": {
+              "target": "Package",
+              "version": "[5.2.6, )"
+            },
+            "Microsoft.NET.Sdk.Functions": {
+              "target": "Package",
+              "version": "[1.0.24, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

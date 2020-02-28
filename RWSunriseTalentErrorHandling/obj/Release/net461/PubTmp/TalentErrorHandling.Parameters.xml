@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="TalentWorkerErrorHandling-UAT" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\ANJANIC\\Desktop\\VSSolutnsToDevelop\\i106-talent-error-handling\\RWSunriseTalentErrorHandling-DEV\\obj\\Release\\net461\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

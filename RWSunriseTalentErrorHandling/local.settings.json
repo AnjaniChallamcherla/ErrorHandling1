@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "sqlUsernameUri": "https://rwsecretkeyvault.vault.azure.net/secrets/RWSunrise-BYOD-SQL-Username/4092b7eb4d5e4133bd462e4019955709",
+    "sqlPasswordUri": "https://rwsecretkeyvault.vault.azure.net/secrets/RWSunrise-BYOD-SQL-Password/2c42c060c7144ca1831d0b82b7d01d80",
+    "dbName": "TALENT-BYODB-PRE-PROD",
+    "dbDataSourcePort": "byodb-dev.database.windows.net,1433",
+    "ClientID_KeyVault": "7b16ca3a-d9ec-4a13-ab04-8db2a575c98a",
+    "ClientSecret_KeyVault": "wf5Tkv2zqD09x94i/No9PdWKrZGt7yYByjow3C8mCsg=",
+    "Legal_Entities": "'IRE', 'IR2', 'NE1', 'NE9', 'NET'"   
+  }
+}
